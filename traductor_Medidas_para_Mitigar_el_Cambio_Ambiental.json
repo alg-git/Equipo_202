@@ -1,0 +1,187 @@
+{
+
+
+
+    "es": {
+        "p4.b1":"Cuidado del medio ambiente",
+        
+        "p4.1": "Medidas para Mitigar el Cambio Ambiental",
+        
+        "p4.2": "Uso de Energías Renovables:",
+       
+        "p4.3":"Sustituir el uso de combustibles fósiles por energía solar, eólica, hidroeléctrica o geotérmica.",
+       
+        "p4.4":"Eficiencia Energética:",
+        
+        "p4.5":"Utilizar aparatos eléctricos de bajo consumo.",
+        
+        "p4.6":"Mejorar el aislamiento de casas y edificios para reducir el uso de calefacción o aire acondicionado.",
+        
+        "p4.7":"Movilidad Sustentable:",
+        
+        "p4.8":"Promover el uso del transporte público, bicicletas o vehículos eléctricos.",
+        
+        "p4.9":"Caminar más y reducir el uso de autos particulares.",
+        
+        "p4.10":"Reforestación y Protección de Bosques:",
+        
+        "p4.11":"Plantar árboles y conservar los ecosistemas naturales que absorben CO₂.",
+        
+        "p4.12":"Evitar la deforestación ilegal.",
+        
+        "p4.13":"Reducción de Residuos:",
+        
+        "p4.14":"Reciclar, reutilizar y reducir el consumo de productos desechables.",
+        
+        "p4.15":"Disminuir el uso de plásticos.",
+        
+        "p4.16":"Agricultura Sostenible:",
+        
+        "p4.17":"Usar técnicas que reduzcan emisiones, como el uso controlado de fertilizantes.",
+        
+        "p4.18":"Promover dietas con menos carne, ya que la ganadería genera mucho metano.",
+        
+        "p4.19":"Conciencia y Educación Ambiental:",
+        
+        "p4.20":"Informar y sensibilizar a las personas sobre la importancia de cuidar el planeta.",
+
+        "PM.1":"Paguina Principal",
+"m1":"Menú",
+"m2":"Conciencia y Educacion Ambiental",
+"m3":"Importancia de la educacion ambiental",
+"m4":"Responsabilidad individual y colectiva",
+"m5":"Cambio de habitos para reducir el impacto ambiental",
+"m6":"Cambio Climático y sus Efectos",
+"m7":"Causas del Cambio Climático",
+"m8":"Consecuencias para el Planeta y la Humanidad",
+"m9":"Medidas para Mitigar el Cambio Ambiental",
+"m10":"Contaminación Ambiental",
+"m11":"Contaminación del Agua, Aire y Suelo",
+"m12":"Contaminación por Plásticos y Microplásticos",
+"m13":"Contaminación Acústica y Lumínica",
+"m14":"Energías Renovables y Sostenibilidad",
+"m15":"Energía Solar, Eólica, Hidroeléctrica y Geotérmica",
+"m16":"Beneficios de las Energías Limpias",
+"m17":"Retos de la Transición Energética",
+"m18":"Biodiversidad y Ecosistemas",
+"m19":"Importancia de la Biodiversidad",
+"m20":"Pérdida de Hábitats y Especies en Peligro",
+"m21":"Estrategias de Conservación de Flora y Fauna",
+"m22":"Gestión de Residuos y Reciclaje",
+"m23":"Reducción, Reutilización y Reciclaje (3R)",
+"m24":"Economía Circular y Materiales Sostenibles",
+"m25":"Manejo Adecuado de Residuos Electrónicos Peligrosos",
+"m26":"Uso Responsable del Agua",
+"m27":"Escasez de Agua y su Impacto Global",
+"m28":"Estrategias de Ahorro y Reutilización",
+"m29":"Contaminación del Agua y su Tratamiento",
+"m30":"Agricultura y Alimentación Sostenible",
+"m31":"Agricultura y Permacultura",
+"m32":"Impacto Ambiental de la Ganadería y la Pesca",
+"m33":"Reducción del Desperdicio de Alimentos",
+"m34":"Urbanismo y Ciudades Sostenibles",
+"m35":"Movilidad Sustentable (Bicicletas, Transporte Público, Autos Eléctricos)",
+"m36":"Construcción Ecológica y Eficiente Energéticamente",
+"m37":"Espacios Verdes y su Impacto en la Calidad de Vida",
+"m38":"Legislación y Políticas Ambientales",
+"m39":"Acuerdos Internacionales Sobre el Medio Ambiente (Acuerdo de París, Agenda 2030)",
+"m40":"Políticas de Protección Ambiental en Distintos Países",
+"m41":"Papel de las Empresas y el Sector Privado en la Sociedad",
+"m42":"Cerrar"
+
+        
+    },
+    
+    
+    "en": {
+        "p4.b1":"Care for the environment",
+        
+        "p4.1": "Measures to Mitigate Environmental Change",
+
+        "p4.2": "Use of Renewable Energy:",
+
+        "p4.3": "Replace the use of fossil fuels with solar, wind, hydroelectric, or geothermal energy.",
+
+        "p4.4": "Energy Efficiency:",
+
+        "p4.5": "Use low-energy consumption electrical appliances.",
+
+        "p4.6": "Improve insulation in houses and buildings to reduce heating or air conditioning use.",
+
+        "p4.7": "Sustainable Mobility:",
+
+        "p4.8": "Promote the use of public transportation, bicycles, or electric vehicles.",
+
+        "p4.9": "Walk more and reduce the use of private cars.",
+
+        "p4.10": "Reforestation and Forest Protection:",
+
+        "p4.11": "Plant trees and preserve natural ecosystems that absorb CO₂.",
+
+        "p4.12": "Prevent illegal deforestation.",
+
+        "p4.13": "Waste Reduction:",
+
+        "p4.14": "Recycle, reuse, and reduce the consumption of disposable products.",
+
+        "p4.15": "Decrease the use of plastics.",
+
+        "p4.16": "Sustainable Agriculture:",
+
+        "p4.17": "Use techniques that reduce emissions, such as controlled use of fertilizers.",
+
+        "p4.18": "Promote diets with less meat, since livestock farming generates a lot of methane.",
+
+        "p4.19": "Environmental Awareness and Education:",
+
+        "p4.20": "Inform and raise awareness about the importance of caring for the planet.",
+
+         "PM.1":"Main Page",
+    "m1": "Menu",
+    "m2": "Environmental Awareness and Education",
+    "m3": "Importance of Environmental Education",
+    "m4": "Individual and Collective Responsibility",
+    "m5": "Habit Changes to Reduce Environmental Impact",
+    "m6": "Climate Change and Its Effects",
+    "m7": "Causes of Climate Change",
+    "m8": "Consequences for the Planet and Humanity",
+    "m9": "Measures to Mitigate Environmental Change",
+    "m10": "Environmental Pollution",
+    "m11": "Water, Air, and Soil Pollution",
+    "m12": "Plastic and Microplastic Pollution",
+    "m13": "Noise and Light Pollution",
+    "m14": "Renewable Energies and Sustainability",
+    "m15": "Solar, Wind, Hydroelectric and Geothermal Energy",
+    "m16": "Benefits of Clean Energy",
+    "m17": "Challenges of the Energy Transition",
+    "m18": "Biodiversity and Ecosystems",
+    "m19": "Importance of Biodiversity",
+    "m20": "Loss of Habitats and Endangered Species",
+    "m21": "Strategies for Flora and Fauna Conservation",
+    "m22": "Waste Management and Recycling",
+    "m23": "Reduction, Reuse, and Recycling (3Rs)",
+    "m24": "Circular Economy and Sustainable Materials",
+    "m25": "Proper Management of Hazardous Electronic Waste",
+    "m26": "Responsible Use of Water",
+    "m27": "Water Scarcity and Its Global Impact",
+    "m28": "Saving and Reuse Strategies",
+    "m29": "Water Pollution and Its Treatment",
+    "m30": "Sustainable Agriculture and Food",
+    "m31": "Agriculture and Permaculture",
+    "m32": "Environmental Impact of Livestock and Fishing",
+    "m33": "Reducing Food Waste",
+    "m34": "Urbanism and Sustainable Cities",
+    "m35": "Sustainable Mobility (Bicycles, Public Transport, Electric Cars)",
+    "m36": "Ecological and Energy-Efficient Construction",
+    "m37": "Green Spaces and Their Impact on Quality of Life",
+    "m38": "Environmental Legislation and Policies",
+    "m39": "International Environmental Agreements (Paris Agreement, 2030 Agenda)",
+    "m40": "Environmental Protection Policies in Different Countries",
+    "m41": "Role of Companies and the Private Sector in Society",
+    "m42": "Close"
+
+        
+        
+    }
+
+}

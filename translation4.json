@@ -1,0 +1,165 @@
+{
+
+    "es": {
+
+        
+        
+        "p4.1": " La conciencia y educación ambiental son fundamentales para abordar los desafíos ambientales actuales.  ",
+        
+       "p4.2": " Cuidado del medio ambiente",
+        
+"p4.3": "conciencia y educacion Ambiental ",
+
+"p4.4":"La educación ambiental es un proceso pedagógico que busca formar ciudadanos informados y comprometidos con el cuidado del entorno. Se promueve en escuelas, universidades, comunidades y medios de comunicación.",
+
+"p4.5":"Objetivos de la educación ambiental: ",
+
+"p4.6":"Fomentar valores y comportamientos sostenibles.",
+
+"p4.7":"Desarrollar conocimientos sobre ecología, sostenibilidad y problemas ambientales.",
+
+"p4.8":"Impulsar la participación en la solución de problemas locales y globales.",
+
+"p4.9":"Ejemplos de educación ambiental: ",
+
+"p4.10":"Talleres escolares sobre reciclaje.",
+
+"p4.11":"Campañas de reforestación comunitaria. ",
+
+"p4.12":"Programas de educación en parques naturales. ",
+
+"p4.13":" Uso de materiales didácticos sobre cambio climático.",
+
+"p4.14":"Relación entre ambos conceptos",
+
+"p4.15":"La educación ambiental genera conciencia ambiental, y una población con conciencia ambiental exige y valora una mejor educación ecológica. Son pilares fundamentales para alcanzar un desarrollo verdaderamente sostenible. ",
+
+"PM.1":"Paguina Principal",
+"m1":"Menú",
+"m2":"Conciencia y Educacion Ambiental",
+"m3":"Importancia de la educacion ambiental",
+"m4":"Responsabilidad individual y colectiva",
+"m5":"Cambio de habitos para reducir el impacto ambiental",
+"m6":"Cambio Climático y sus Efectos",
+"m7":"Causas del Cambio Climático",
+"m8":"Consecuencias para el Planeta y la Humanidad",
+"m9":"Medidas para Mitigar el Cambio Ambiental",
+"m10":"Contaminación Ambiental",
+"m11":"Contaminación del Agua, Aire y Suelo",
+"m12":"Contaminación por Plásticos y Microplásticos",
+"m13":"Contaminación Acústica y Lumínica",
+"m14":"Energías Renovables y Sostenibilidad",
+"m15":"Energía Solar, Eólica, Hidroeléctrica y Geotérmica",
+"m16":"Beneficios de las Energías Limpias",
+"m17":"Retos de la Transición Energética",
+"m18":"Biodiversidad y Ecosistemas",
+"m19":"Importancia de la Biodiversidad",
+"m20":"Pérdida de Hábitats y Especies en Peligro",
+"m21":"Estrategias de Conservación de Flora y Fauna",
+"m22":"Gestión de Residuos y Reciclaje",
+"m23":"Reducción, Reutilización y Reciclaje (3R)",
+"m24":"Economía Circular y Materiales Sostenibles",
+"m25":"Manejo Adecuado de Residuos Electrónicos Peligrosos",
+"m26":"Uso Responsable del Agua",
+"m27":"Escasez de Agua y su Impacto Global",
+"m28":"Estrategias de Ahorro y Reutilización",
+"m29":"Contaminación del Agua y su Tratamiento",
+"m30":"Agricultura y Alimentación Sostenible",
+"m31":"Agricultura y Permacultura",
+"m32":"Impacto Ambiental de la Ganadería y la Pesca",
+"m33":"Reducción del Desperdicio de Alimentos",
+"m34":"Urbanismo y Ciudades Sostenibles",
+"m35":"Movilidad Sustentable (Bicicletas, Transporte Público, Autos Eléctricos)",
+"m36":"Construcción Ecológica y Eficiente Energéticamente",
+"m37":"Espacios Verdes y su Impacto en la Calidad de Vida",
+"m38":"Legislación y Políticas Ambientales",
+"m39":"Acuerdos Internacionales Sobre el Medio Ambiente (Acuerdo de París, Agenda 2030)",
+"m40":"Políticas de Protección Ambiental en Distintos Países",
+"m41":"Papel de las Empresas y el Sector Privado en la Sociedad",
+"m42":"Cerrar"
+        
+        
+
+    },
+    
+    "en": {
+        
+    
+        "p4.1": "Environmental awareness and education are essential to addressing today's environmental challenges.  ",
+
+        "p4.2": "Care for the environment ",
+
+        "p4.3": " awareness and environmental education",
+
+ "p4.4": "Environmental education is a pedagogical process that aims to shape informed citizens committed to caring for the environment. It is promoted in schools, universities, communities, and the media.",
+
+"p4.5": "Objectives of environmental education:",
+
+"p4.6": "Promote sustainable values and behaviors.",
+
+"p4.7": "Develop knowledge about ecology, sustainability, and environmental issues.",
+
+"p4.8": "Encourage participation in solving local and global problems.",
+
+"p4.9": "Examples of environmental education:",
+
+"p4.10": "School workshops on recycling.",
+
+"p4.11": "Community reforestation campaigns.",
+
+"p4.12": "Educational programs in natural parks.",
+
+"p4.13": "Use of educational materials about climate change.",
+
+"p4.14": "Relationship between both concepts",
+
+"p4.15": "Environmental education raises environmental awareness, and a population with environmental awareness demands and values better ecological education. They are fundamental pillars for achieving truly sustainable development.",
+
+
+         "PM.1":"Main Page",
+    "m1": "Menu",
+    "m2": "Environmental Awareness and Education",
+    "m3": "Importance of Environmental Education",
+    "m4": "Individual and Collective Responsibility",
+    "m5": "Habit Changes to Reduce Environmental Impact",
+    "m6": "Climate Change and Its Effects",
+    "m7": "Causes of Climate Change",
+    "m8": "Consequences for the Planet and Humanity",
+    "m9": "Measures to Mitigate Environmental Change",
+    "m10": "Environmental Pollution",
+    "m11": "Water, Air, and Soil Pollution",
+    "m12": "Plastic and Microplastic Pollution",
+    "m13": "Noise and Light Pollution",
+    "m14": "Renewable Energies and Sustainability",
+    "m15": "Solar, Wind, Hydroelectric and Geothermal Energy",
+    "m16": "Benefits of Clean Energy",
+    "m17": "Challenges of the Energy Transition",
+    "m18": "Biodiversity and Ecosystems",
+    "m19": "Importance of Biodiversity",
+    "m20": "Loss of Habitats and Endangered Species",
+    "m21": "Strategies for Flora and Fauna Conservation",
+    "m22": "Waste Management and Recycling",
+    "m23": "Reduction, Reuse, and Recycling (3Rs)",
+    "m24": "Circular Economy and Sustainable Materials",
+    "m25": "Proper Management of Hazardous Electronic Waste",
+    "m26": "Responsible Use of Water",
+    "m27": "Water Scarcity and Its Global Impact",
+    "m28": "Saving and Reuse Strategies",
+    "m29": "Water Pollution and Its Treatment",
+    "m30": "Sustainable Agriculture and Food",
+    "m31": "Agriculture and Permaculture",
+    "m32": "Environmental Impact of Livestock and Fishing",
+    "m33": "Reducing Food Waste",
+    "m34": "Urbanism and Sustainable Cities",
+    "m35": "Sustainable Mobility (Bicycles, Public Transport, Electric Cars)",
+    "m36": "Ecological and Energy-Efficient Construction",
+    "m37": "Green Spaces and Their Impact on Quality of Life",
+    "m38": "Environmental Legislation and Policies",
+    "m39": "International Environmental Agreements (Paris Agreement, 2030 Agenda)",
+    "m40": "Environmental Protection Policies in Different Countries",
+    "m41": "Role of Companies and the Private Sector in Society",
+    "m42": "Close"
+    }
+
+}
+

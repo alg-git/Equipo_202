@@ -1,0 +1,46 @@
+{
+
+    "es": {
+        
+        "p2.1": " Contaminación del agua, del aire y del suelo ",
+        
+        "p2.2": " 💧 Contaminación del Agua, Aire y Suelo  ",
+       
+        "p2.3":"  ·Contaminación del Agua ",
+       
+        "p2.4":" Se produce cuando se introducen sustancias contaminantes en cuerpos de agua, afectando su calidad y la vida acuática.  Las principales fuentes incluyen vertidos industriales, aguas residuales urbanas y escorrentes agrícolas que contienen pesticidas y fertilizantes  . ",
+        
+        "p2.5":" ·Contaminación del Aire  ",
+        
+        "p2.6":" Proviene de la emisión de gases y partículas por vehículos, industrias y actividades domésticas.  Contaminantes comunes incluyen dióxido de azufre (SO₂), óxidos de nitrógeno (NOx), monóxido de carbono (CO) y partículas en suspensión, que pueden causar problemas respiratorios y contribuir al cambio climático  . ",
+        
+        "p2.7":" ·Contaminación del Suelo ",
+        
+        "p2.8":" Resulta de la acumulación de sustancias tóxicas como metales pesados, residuos industriales y productos químicos agrícolas.  Esto deteriora la calidad del suelo, afecta la producción agrícola y puede contaminar las aguas subterráneas  .  ",
+                               
+     "p2.9": " Cuidado del medio ambiente ",
+        
+        "p2.10": " Responsabilidad individual y colectiva "
+        
+
+    },
+    
+    "en": {
+        
+"p2.1": "Water, Air, and Soil Pollution", 
+"p2.2": "💧 Water, Air, and Soil Pollution",
+"p2.3":" Water Pollution",
+"p2.4":" It occurs when polluting substances are introduced into bodies of water, affecting their quality and aquatic life. The main sources include industrial wastewater, urban wastewater, and agricultural runoff containing pesticides and fertilizers.",
+"p2.5":" Air Pollution",
+"p2.6":" It comes from the emission of gases and particles from vehicles, industries, and domestic activities. Common pollutants include sulfur dioxide (SO₂), nitrogen oxides (NOx), carbon monoxide (CO), and suspended particles, which can cause respiratory problems and contribute to climate change.", 
+"p2.7":" Soil Pollution",
+"p2.8":" It results from the accumulation of toxic substances such as heavy metals, industrial waste and agricultural chemicals. This deteriorates soil quality, affects agricultural production and can contaminate groundwater. ",
+                
+                "p2.9": " Environmental Care ",
+        
+        "p2.10": " Individual and Collective Responsibility "
+        
+        
+    }
+
+}

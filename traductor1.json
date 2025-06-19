@@ -1,0 +1,30 @@
+{
+
+    "es": {
+        
+        "p1.1": " Contaminación ambiental ",
+        
+        "p1.2": "  🌍 Contaminación Ambiental  ",
+       
+        "p1.3":" La contaminación ambiental se refiere a la presencia de sustancias nocivas en el entorno natural, resultado principalmente de actividades humanas como la industrialización, el transporte y la agricultura intensiva.  Esto afecta negativamente al aire, agua, suelo y a los seres vivos que dependen de estos recursos  . ",
+             "p1.4": " Cuidado del medio ambiente ",
+        
+        "p1.5": " Responsabilidad individual y colectiva "
+        
+    },
+    
+    "en": {
+        
+"p1.1": "Environmental Pollution",
+
+"p1.2": "🌍 Environmental Pollution",
+
+"p1.3": "Environmental pollution refers to the presence of harmful substances in the natural environment, primarily the result of human activities such as industrialization, transportation, and intensive agriculture. This negatively affects the air, water, soil, and the living beings that depend on these resources.",
+        
+              "p1.4": " Environmental Care ",
+        
+        "p1.5": " Individual and Collective Responsibility "
+        
+    }
+
+}

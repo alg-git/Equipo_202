@@ -1,0 +1,224 @@
+{
+    "es": {
+
+        "p4.18":"Cuidado del medio ambiente ",
+
+        "p4.19":"Manejo Adecuado de Residuos Electronicos Peligrosos ",
+        
+        "p4.1": " ¿Qué son los residuos electrónicos peligrosos? ",
+        
+        "p4.2": " Los residuos electrónicos peligrosos (e-waste) incluyen dispositivos eléctricos y electrónicos desechados que contienen sustancias tóxicas como plomo, mercurio, cadmio, cromo y retardantes de llama. Algunos ejemplos comunes son: ",
+       
+        "p4.3":" Computadoras y laptops ",
+       
+        "p4.4":" Teléfonos móviles ",
+        
+        "p4.5":" Televisores ",
+        
+        "p4.6":" Baterías de litio ",
+        
+        "p4.7":" Impresoras y escáneres ",
+        
+        "p4.8":" ¿Por qué son peligrosos? ",
+        
+        "p4.9":" Porque contienen componentes químicos que contaminan el suelo, el aire y el agua si no se manejan adecuadamente. También pueden afectar la salud humana, provocando enfermedades respiratorias, neurológicas y de la piel. ",
+        
+        "p4.10":" Pasos para el manejo adecuado: ",
+        
+        "p4.11":" Recolección y clasificación ",
+        
+        "p4.12":" Separar los residuos electrónicos de la basura doméstica. Clasificarlos por tipo (baterías, computadoras, celulares, etc.). ",
+        
+        "p4.13":" Reutilización y reparación  ",
+        
+        "p4.14":" Si el equipo aún funciona, se puede donar, revender o reparar para extender su vida útil. ",
+        
+        "p4.15":"  Reciclaje especializado ",
+        
+        "p4.16":" Llevar los residuos a centros de reciclaje certificados. Estos centros desmantelan y recuperan materiales útiles como metales preciosos o plásticos.  ",
+        
+        "p4.17":" Tratamiento de materiales peligrosos ",
+
+    "p4.20":"Algunos componentes requieren tratamiento especial para neutralizar los químicos tóxicos antes de su disposición final.",
+
+    "p4.21":"Educación y concientización",
+
+    "p4.22":"Promover campañas para que más personas sepan cómo desechar estos residuos de forma responsable.",
+
+    "p4.23":"¿Dónde llevarlos en México?",
+
+    "p4.24":"Puedes llevarlos a:",
+
+    "p4.25":" Centros de acopio municipales",
+
+    "p4.26":"Jornadas de reciclaje electrónico",
+
+    "p4.27":"Tiendas de electrónica que aceptan aparatos usados (algunas ofrecen descuentos)",
+
+    "p4.28":"Recomendaciones personales:",
+
+    "p4.29":"No deseches electrónicos en la basura común.",
+
+    "p4.30":"Elimina tus datos personales antes de entregar dispositivos.",
+
+"p4.31":"Busca sellos de reciclaje responsable como R2 o e-Stewards en centros de reciclaje.",
+        "PM.1":"Paguina Principal",
+"m1":"Menú",
+"m2":"Conciencia y Educacion Ambiental",
+"m3":"Importancia de la educacion ambiental",
+"m4":"Responsabilidad individual y colectiva",
+"m5":"Cambio de habitos para reducir el impacto ambiental",
+"m6":"Cambio Climático y sus Efectos",
+"m7":"Causas del Cambio Climático",
+"m8":"Consecuencias para el Planeta y la Humanidad",
+"m9":"Medidas para Mitigar el Cambio Ambiental",
+"m10":"Contaminación Ambiental",
+"m11":"Contaminación del Agua, Aire y Suelo",
+"m12":"Contaminación por Plásticos y Microplásticos",
+"m13":"Contaminación Acústica y Lumínica",
+"m14":"Energías Renovables y Sostenibilidad",
+"m15":"Energía Solar, Eólica, Hidroeléctrica y Geotérmica",
+"m16":"Beneficios de las Energías Limpias",
+"m17":"Retos de la Transición Energética",
+"m18":"Biodiversidad y Ecosistemas",
+"m19":"Importancia de la Biodiversidad",
+"m20":"Pérdida de Hábitats y Especies en Peligro",
+"m21":"Estrategias de Conservación de Flora y Fauna",
+"m22":"Gestión de Residuos y Reciclaje",
+"m23":"Reducción, Reutilización y Reciclaje (3R)",
+"m24":"Economía Circular y Materiales Sostenibles",
+"m25":"Manejo Adecuado de Residuos Electrónicos Peligrosos",
+"m26":"Uso Responsable del Agua",
+"m27":"Escasez de Agua y su Impacto Global",
+"m28":"Estrategias de Ahorro y Reutilización",
+"m29":"Contaminación del Agua y su Tratamiento",
+"m30":"Agricultura y Alimentación Sostenible",
+"m31":"Agricultura y Permacultura",
+"m32":"Impacto Ambiental de la Ganadería y la Pesca",
+"m33":"Reducción del Desperdicio de Alimentos",
+"m34":"Urbanismo y Ciudades Sostenibles",
+"m35":"Movilidad Sustentable (Bicicletas, Transporte Público, Autos Eléctricos)",
+"m36":"Construcción Ecológica y Eficiente Energéticamente",
+"m37":"Espacios Verdes y su Impacto en la Calidad de Vida",
+"m38":"Legislación y Políticas Ambientales",
+"m39":"Acuerdos Internacionales Sobre el Medio Ambiente (Acuerdo de París, Agenda 2030)",
+"m40":"Políticas de Protección Ambiental en Distintos Países",
+"m41":"Papel de las Empresas y el Sector Privado en la Sociedad",
+"m42":"Cerrar"
+        
+    },
+    
+    "en": {
+
+         "p4.18":"Care for the environment ",
+
+        "p4.19":"Proper Management of Hazardous Electronic Waste ",
+        
+       
+    
+  "p4.1": "What are hazardous electronic waste?",
+  
+  "p4.2": "Hazardous electronic waste (e-waste) includes discarded electrical and electronic devices that contain toxic substances such as lead, mercury, cadmium, chromium, and flame retardants. Common examples include:",
+  
+  "p4.3": "Computers and laptops",
+  
+  "p4.4": "Mobile phones",
+  
+  "p4.5": "Televisions",
+  
+  "p4.6": "Lithium batteries",
+  
+  "p4.7": "Printers and scanners",
+  
+  "p4.8": "Why are they hazardous?",
+  
+  "p4.9": "Because they contain chemical components that pollute the soil, air, and water if not handled properly. They can also affect human health, causing respiratory, neurological, and skin diseases.",
+  
+  "p4.10": "Steps for proper management:",
+  
+  "p4.11": "Collection and classification",
+  
+  "p4.12": "Separate electronic waste from household garbage. Classify it by type (batteries, computers, cell phones, etc.).",
+  
+  "p4.13": "Reuse and repair",
+  
+  "p4.14": "If the device still works, it can be donated, resold, or repaired to extend its useful life.",
+  
+  "p4.15": "Specialized recycling",
+  
+  "p4.16": "Take the waste to certified recycling centers. These centers dismantle and recover useful materials such as precious metals or plastics.",
+  
+  "p4.17": "Treatment of hazardous materials",
+  
+  "p4.20": "Some components require special treatment to neutralize toxic chemicals before final disposal.",
+  
+  "p4.21": "Education and awareness",
+  
+  "p4.22": "Promote campaigns so more people know how to properly dispose of this type of waste.",
+  
+  "p4.23": "Where to take them in Mexico?",
+  
+  "p4.24": "You can take them to:",
+  
+  "p4.25": "Municipal collection centers",
+  
+  "p4.26": "Electronic recycling events",
+  
+  "p4.27": "Electronics stores that accept used devices (some offer discounts)",
+  
+  "p4.28": "Personal recommendations:",
+  
+  "p4.29": "Do not throw electronics in the regular trash.",
+  
+  "p4.30": "Erase your personal data before handing over devices.",
+  
+  "p4.31": "Look for responsible recycling certifications such as R2 or e-Stewards at recycling centers.",
+
+
+            "PM.1":"Main Page",
+    "m1": "Menu",
+    "m2": "Environmental Awareness and Education",
+    "m3": "Importance of Environmental Education",
+    "m4": "Individual and Collective Responsibility",
+    "m5": "Habit Changes to Reduce Environmental Impact",
+    "m6": "Climate Change and Its Effects",
+    "m7": "Causes of Climate Change",
+    "m8": "Consequences for the Planet and Humanity",
+    "m9": "Measures to Mitigate Environmental Change",
+    "m10": "Environmental Pollution",
+    "m11": "Water, Air, and Soil Pollution",
+    "m12": "Plastic and Microplastic Pollution",
+    "m13": "Noise and Light Pollution",
+    "m14": "Renewable Energies and Sustainability",
+    "m15": "Solar, Wind, Hydroelectric and Geothermal Energy",
+    "m16": "Benefits of Clean Energy",
+    "m17": "Challenges of the Energy Transition",
+    "m18": "Biodiversity and Ecosystems",
+    "m19": "Importance of Biodiversity",
+    "m20": "Loss of Habitats and Endangered Species",
+    "m21": "Strategies for Flora and Fauna Conservation",
+    "m22": "Waste Management and Recycling",
+    "m23": "Reduction, Reuse, and Recycling (3Rs)",
+    "m24": "Circular Economy and Sustainable Materials",
+    "m25": "Proper Management of Hazardous Electronic Waste",
+    "m26": "Responsible Use of Water",
+    "m27": "Water Scarcity and Its Global Impact",
+    "m28": "Saving and Reuse Strategies",
+    "m29": "Water Pollution and Its Treatment",
+    "m30": "Sustainable Agriculture and Food",
+    "m31": "Agriculture and Permaculture",
+    "m32": "Environmental Impact of Livestock and Fishing",
+    "m33": "Reducing Food Waste",
+    "m34": "Urbanism and Sustainable Cities",
+    "m35": "Sustainable Mobility (Bicycles, Public Transport, Electric Cars)",
+    "m36": "Ecological and Energy-Efficient Construction",
+    "m37": "Green Spaces and Their Impact on Quality of Life",
+    "m38": "Environmental Legislation and Policies",
+    "m39": "International Environmental Agreements (Paris Agreement, 2030 Agenda)",
+    "m40": "Environmental Protection Policies in Different Countries",
+    "m41": "Role of Companies and the Private Sector in Society",
+    "m42": "Close"
+
+    }
+
+}

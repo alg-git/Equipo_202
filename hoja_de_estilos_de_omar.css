@@ -1,0 +1,148 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6f2e6;
+    margin: 0;
+    padding: 0;
+}
+
+.myDiv {
+    background-color: #2e8b57;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav {
+    background-color: #4caf50;
+    position: relative;
+}
+
+
+/* Icono hamburguesa */
+.menu-icon {
+    display: none;
+    font-size: 26px;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+}
+
+/* Oculta checkbox */
+#menu-toggle {
+    display: none;
+}
+
+/* Menú principal */
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.menu > li {
+    position: relative;
+}
+
+.menu > li > a {
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+    background-color: #4caf50;
+    transition: background-color 0.3s ease;
+}
+
+.menu > li > a:hover {
+    background-color: #388e3c;
+}
+
+/* Submenús */
+.submenu {
+    display: none;
+    position: absolute;
+    background-color: #a5d6a7;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    top: 100%;
+    left: 0;
+    min-width: 200px;
+    z-index: 999;
+    border-radius: 0 0 10px 10px;
+}
+
+.submenu li a {
+    display: block;
+    padding: 10px;
+    color: #1b5e20;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.submenu li a:hover {
+    background-color: #81c784;
+}
+
+/* Mostrar submenú al pasar el mouse */
+.menu > li:hover .submenu {
+    display: block;
+}
+
+/* RESPONSIVE - modo móvil */
+@media (max-width: 768px) {
+    .menu-icon {
+        display: block;
+    }
+
+    .menu {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    #menu-toggle:checked + .menu-icon + .menu {
+        display: flex;
+    }
+
+    .menu > li {
+        width: 100%;
+    }
+
+    .menu > li > a {
+        background-color: #4caf50;
+        border-bottom: 1px solid #388e3c;
+    }
+
+    /* Submenús dentro de móviles */
+    .menu > li:hover .submenu {
+        position: relative;
+        top: 0;
+        left: 0;
+        border-radius: 0;
+    }
+}
+
+/* Pie de página */
+footer {
+    background-color: #2e7d32;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 14px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Imagen centrada, responsiva, con margen y esquinas redondeadas */
+img {
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin: 20px auto;         /* margen superior e inferior */
+    border-radius: 15px;       /* esquinas redondeadas */
+}

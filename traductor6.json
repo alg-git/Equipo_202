@@ -1,0 +1,38 @@
+{
+  "es": {
+    "p6.1": " Energía Solar, Eólica, Hidroeléctrica y Geotérmica ",
+    "p6.2": "  ⚡ Energía Solar, Eólica, Hidroeléctrica y Geotérmica ",
+    "p6.3": "  ·Energía Solar:   ",
+    "p6.4": "  Aprovecha la radiación solar mediante paneles fotovoltaicos para generar electricidad.  ",
+    "p6.5": "  ·Energía Eólica:   ",
+    "p6.6": " Utiliza la fuerza del viento para mover aerogeneradores que producen energía eléctrica.  ",
+    "p6.7": " ·Energía Hidroeléctrica:   ",
+    "p6.8": "  Genera electricidad a través del movimiento del agua en presas y ríos.  ",
+    "p6.9": "  ·Energía Geotérmica: ",
+    "p6.10": " Extrae el calor del interior de la Tierra para producir energía. ",
+    "p6.11": " Estas fuentes son sostenibles y tienen un menor impacto ambiental en comparación con las energías convencionales  . ",
+             "p6.12": " Cuidado del medio ambiente ",
+        
+        "p6.13": " Responsabilidad individual y colectiva "
+        
+    
+  },
+  "en": {
+"p6.1": "Solar, Wind, Hydroelectric, and Geothermal Energy", 
+"p6.2": "⚡ Solar, Wind, Hydroelectric, and Geothermal Energy",
+"p6.3": "·Solar Energy:", 
+"p6.4": "Harnesses solar radiation through photovoltaic panels to generate electricity.", 
+"p6.5": "·Wind Energy:", 
+"p6.6": "Uses the force of the wind to move wind turbines that produce electrical energy.", 
+"p6.7": "·Hydroelectric Energy:", 
+"p6.8": "Generates electricity through the movement of water in dams and rivers.",
+"p6.9": "·Geothermal Energy:",
+"p6.10": "Extracts heat from the Earth's interior to produce energy.", 
+"p6.11": "These sources are sustainable and have a lower environmental impact compared to conventional energies. ", 
+                "p6.12": " Environmental Care ",
+        
+        "p6.13": " Individual and Collective Responsibility "
+    
+
+  }
+}

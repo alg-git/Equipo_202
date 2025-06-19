@@ -1,0 +1,28 @@
+{
+  "es": {
+    "p4.1": " Contaminación acústica y térmica ",
+    "p4.2": "  🔊 Contaminación Acústica y Térmica ",
+    "p4.3": " ·Contaminación Acústica ",
+    "p4.4": "  Se refiere al exceso de ruido en el ambiente, proveniente de fuentes como el tráfico, industrias y actividades urbanas.  Este tipo de contaminación puede causar estrés, trastornos del sueño y problemas auditivos en humanos  . ",
+    "p4.5": " ·Contaminación Térmica  ",
+    "p4.6": " Ocurre cuando se altera la temperatura natural de un entorno, generalmente por descargas de agua caliente de procesos industriales en cuerpos de agua.  Esto puede afectar negativamente a los ecosistemas acuáticos al alterar las condiciones de vida de las especies  . ",
+         "p4.7": " Cuidado del medio ambiente ",
+        
+        "p4.8": " Responsabilidad individual y colectiva "
+        
+    
+    
+  },
+  "en": {
+ "p4.1": "Noise and Thermal Pollution", 
+ "p4.2": "🔊 Noise and Thermal Pollution", 
+ "p4.3": "·Noise Pollution", 
+ "p4.4": "Refers to excessive noise in the environment, coming from sources such as traffic, industries, and urban activities. This type of pollution can cause stress, sleep disorders, and hearing problems in humans.", 
+ "p4.5": "·Thermal Pollution", 
+ "p4.6": "Occurs when the natural temperature of an environment is altered, generally by the discharge of hot water from industrial processes into bodies of water. This can negatively affect aquatic ecosystems by altering the living conditions of species.",
+                 "p4.7": " Environmental Care ",
+        
+        "p4.8": " Individual and Collective Responsibility "
+    
+  }
+}

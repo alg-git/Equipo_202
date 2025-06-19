@@ -1,0 +1,208 @@
+{
+    "es": {
+
+        "p0.0":"Las 3R´s",
+        
+         "p2.5":"Cuidado del medio ambiente",
+        
+        "p2.6":"Reduccion, reutilizar y reciclaje (las 3R's)",
+
+        "p2.1": "Las 3R's —Reducción, Reutilización y Reciclaje— son principios clave para minimizar el impacto ambiental de nuestras actividades diarias. Aquí te explico cada una: ",
+        
+        "p2.2": " Reducción ",
+       
+        "p2.3":" Implica disminuir la cantidad de residuos que generamos desde el principio. Se trata de consumir de forma consciente y responsable. ",
+       
+        "p2.4":" Ejemplos: ",
+        
+        "p2.7": "Comprar solo lo necesario. ",
+        
+        "p2.8": "Evitar productos con exceso de embalaje.  ",
+       
+        "p2.9":"Usar botellas reutilizables en lugar de botellas de plástico desechables.  ",
+       
+        "p2.10":" Reutilización ",
+
+        "p2.11": "Consiste en dar una segunda vida a los productos antes de desecharlos. Esto prolonga su uso y evita generar residuos innecesarios. ",
+        
+        "p2.12": "Ejemplos:  ",
+       
+        "p2.13":" Usar frascos de vidrio como recipientes para guardar cosas. ",
+       
+        "p2.14":" Donar ropa, libros o muebles que ya no usas. ",
+        
+        "p2.15": "Reutilizar bolsas de tela para hacer compras. ",
+        
+        "p2.16": " Reciclaje ",
+       
+        "p2.17":" Se refiere a transformar los residuos en nuevos productos a través de procesos industriales. Es el último paso cuando no se puede reducir ni reutilizar. ",
+       
+        "p2.18":" Ejemplos: ",
+
+        "p2.19": "Separar papel, cartón, plástico, vidrio y metales para su reciclaje. ",
+        
+        "p2.20": " Llevar electrónicos a puntos limpios o centros especializados. ",
+       
+        "p2.21":" Participar en campañas de reciclaje en tu comunidad. ",
+       
+        "p2.22":" ¿Por qué son importantes las 3R? ",
+        
+        "p2.23": " Reducen la contaminación.",
+        
+        "p2.24": " Ahorran recursos naturales. ",
+
+        "p2.25": " Disminuyen la cantidad de basura en vertederos. ",
+
+        "p2.26": " Fomentan una economía más sostenible. ",
+       
+
+        "PM.1":"Paguina Principal",
+"m1":"Menú",
+"m2":"Conciencia y Educacion Ambiental",
+"m3":"Importancia de la educacion ambiental",
+"m4":"Responsabilidad individual y colectiva",
+"m5":"Cambio de habitos para reducir el impacto ambiental",
+"m6":"Cambio Climático y sus Efectos",
+"m7":"Causas del Cambio Climático",
+"m8":"Consecuencias para el Planeta y la Humanidad",
+"m9":"Medidas para Mitigar el Cambio Ambiental",
+"m10":"Contaminación Ambiental",
+"m11":"Contaminación del Agua, Aire y Suelo",
+"m12":"Contaminación por Plásticos y Microplásticos",
+"m13":"Contaminación Acústica y Lumínica",
+"m14":"Energías Renovables y Sostenibilidad",
+"m15":"Energía Solar, Eólica, Hidroeléctrica y Geotérmica",
+"m16":"Beneficios de las Energías Limpias",
+"m17":"Retos de la Transición Energética",
+"m18":"Biodiversidad y Ecosistemas",
+"m19":"Importancia de la Biodiversidad",
+"m20":"Pérdida de Hábitats y Especies en Peligro",
+"m21":"Estrategias de Conservación de Flora y Fauna",
+"m22":"Gestión de Residuos y Reciclaje",
+"m23":"Reducción, Reutilización y Reciclaje (3R)",
+"m24":"Economía Circular y Materiales Sostenibles",
+"m25":"Manejo Adecuado de Residuos Electrónicos Peligrosos",
+"m26":"Uso Responsable del Agua",
+"m27":"Escasez de Agua y su Impacto Global",
+"m28":"Estrategias de Ahorro y Reutilización",
+"m29":"Contaminación del Agua y su Tratamiento",
+"m30":"Agricultura y Alimentación Sostenible",
+"m31":"Agricultura y Permacultura",
+"m32":"Impacto Ambiental de la Ganadería y la Pesca",
+"m33":"Reducción del Desperdicio de Alimentos",
+"m34":"Urbanismo y Ciudades Sostenibles",
+"m35":"Movilidad Sustentable (Bicicletas, Transporte Público, Autos Eléctricos)",
+"m36":"Construcción Ecológica y Eficiente Energéticamente",
+"m37":"Espacios Verdes y su Impacto en la Calidad de Vida",
+"m38":"Legislación y Políticas Ambientales",
+"m39":"Acuerdos Internacionales Sobre el Medio Ambiente (Acuerdo de París, Agenda 2030)",
+"m40":"Políticas de Protección Ambiental en Distintos Países",
+"m41":"Papel de las Empresas y el Sector Privado en la Sociedad",
+"m42":"Cerrar"
+
+    },
+    
+    "en": {
+
+          "p0.0":"The 3Rs",
+
+            "p2.5":"Caring for the Environment",
+
+        "p2.6":"Reducing, Reusing, and Recycling (The 3Rs)",
+        
+
+  "p2.1": "The 3 R's —Reduction, Reuse, and Recycling— are key principles to minimize the environmental impact of our daily activities. Here I explain each one:",
+  
+  "p2.2": " Reduction ",
+  
+  "p2.3": "It involves decreasing the amount of waste we generate from the beginning. It’s about consuming consciously and responsibly.",
+  
+  "p2.4": "Examples:",
+  
+  "p2.7": "Only buy what is necessary.",
+  
+  "p2.8": "Avoid products with excessive packaging.",
+  
+  "p2.9": "Use reusable bottles instead of disposable plastic ones.",
+  
+  "p2.10": " Reuse ",
+  
+  "p2.11": "It consists of giving products a second life before throwing them away. This extends their use and avoids generating unnecessary waste.",
+  
+  "p2.12": "Examples:",
+  
+  "p2.13": "Use glass jars as containers to store things.",
+  
+  "p2.14": "Donate clothes, books, or furniture you no longer use.",
+  
+  "p2.15": "Reuse cloth bags for shopping.",
+  
+  "p2.16": " Recycling ",
+  
+  "p2.17": "It refers to transforming waste into new products through industrial processes. It is the last step when reducing and reusing are not possible.",
+  
+  "p2.18": "Examples:",
+  
+  "p2.19": "Separate paper, cardboard, plastic, glass, and metals for recycling.",
+  
+  "p2.20": "Take electronics to recycling centers or collection points.",
+  
+  "p2.21": "Participate in recycling campaigns in your community.",
+  
+  "p2.22": " Why are the 3 R's important? ",
+  
+  "p2.23": "They reduce pollution.",
+  
+  "p2.24": "They save natural resources.",
+  
+  "p2.25": "They decrease the amount of waste in landfills.",
+  
+  "p2.26": "They promote a more sustainable economy.",
+
+
+          "PM.1":"Main Page",
+    "m1": "Menu",
+    "m2": "Environmental Awareness and Education",
+    "m3": "Importance of Environmental Education",
+    "m4": "Individual and Collective Responsibility",
+    "m5": "Habit Changes to Reduce Environmental Impact",
+    "m6": "Climate Change and Its Effects",
+    "m7": "Causes of Climate Change",
+    "m8": "Consequences for the Planet and Humanity",
+    "m9": "Measures to Mitigate Environmental Change",
+    "m10": "Environmental Pollution",
+    "m11": "Water, Air, and Soil Pollution",
+    "m12": "Plastic and Microplastic Pollution",
+    "m13": "Noise and Light Pollution",
+    "m14": "Renewable Energies and Sustainability",
+    "m15": "Solar, Wind, Hydroelectric and Geothermal Energy",
+    "m16": "Benefits of Clean Energy",
+    "m17": "Challenges of the Energy Transition",
+    "m18": "Biodiversity and Ecosystems",
+    "m19": "Importance of Biodiversity",
+    "m20": "Loss of Habitats and Endangered Species",
+    "m21": "Strategies for Flora and Fauna Conservation",
+    "m22": "Waste Management and Recycling",
+    "m23": "Reduction, Reuse, and Recycling (3Rs)",
+    "m24": "Circular Economy and Sustainable Materials",
+    "m25": "Proper Management of Hazardous Electronic Waste",
+    "m26": "Responsible Use of Water",
+    "m27": "Water Scarcity and Its Global Impact",
+    "m28": "Saving and Reuse Strategies",
+    "m29": "Water Pollution and Its Treatment",
+    "m30": "Sustainable Agriculture and Food",
+    "m31": "Agriculture and Permaculture",
+    "m32": "Environmental Impact of Livestock and Fishing",
+    "m33": "Reducing Food Waste",
+    "m34": "Urbanism and Sustainable Cities",
+    "m35": "Sustainable Mobility (Bicycles, Public Transport, Electric Cars)",
+    "m36": "Ecological and Energy-Efficient Construction",
+    "m37": "Green Spaces and Their Impact on Quality of Life",
+    "m38": "Environmental Legislation and Policies",
+    "m39": "International Environmental Agreements (Paris Agreement, 2030 Agenda)",
+    "m40": "Environmental Protection Policies in Different Countries",
+    "m41": "Role of Companies and the Private Sector in Society",
+    "m42": "Close"
+    }
+
+}

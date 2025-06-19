@@ -1,0 +1,238 @@
+{
+
+    "es": {
+
+               "p3.22":"Cuidado del medio ambiente",
+       
+       "p3.23":"Cambio de habitos para reducir el impacto ambiental",
+       
+       "p3h1":"Los cambios",
+        
+       "p3.1": "El cambio de hábitos para reducir el impacto ambiental es fundamental para cuidar el planeta y asegurar un futuro sostenible. Consiste en modificar nuestras rutinas diarias para minimizar el daño que causamos al medio ambiente. Aquí tienes algunos ejemplos clave: ",
+       
+       "p3.2": " Alimentación",
+       
+       "p3.3": " Reduce el consumo de carne y productos de origen animal: La producción ganadera es una de las principales fuentes de gases de efecto invernadero.",
+       
+       "p3.4": " Compra productos locales y de temporada: Reduces la huella de carbono asociada al transporte.",
+       
+       "p3.5": "Evita el desperdicio de alimentos: Planifica tus comidas y almacena los alimentos adecuadamente. ",
+       
+       "p3.6": " Consumo responsable",
+       
+       "p3.7": " Evita el plástico de un solo uso: Usa botellas reutilizables, bolsas de tela y envases reciclables.",
+       
+       "p3.8": " Compra menos y mejor: Opta por productos duraderos, reparables y hechos con materiales sostenibles.",
+       
+       "p3.9": " Apoya marcas con prácticas éticas y sostenibles. ",
+       
+       "p3.10": " Transporte ",
+       
+       "p3.11": "Camina, usa la bicicleta o el transporte público siempre que sea posible. ",
+       
+       "p3.12": " Comparte el coche o trabaja desde casa si tienes la opción.",
+       
+       "p3.13": " Considera vehículos eléctricos o híbridos si debes usar automóvil.",
+       
+       "p3.14": " Energía ",
+       
+       "p3.15": " Apaga luces y aparatos electrónicos cuando no los uses. ",
+       
+       "p3.16": " Aprovecha la luz natural al máximo.",
+       
+       "p3.17": " Instala bombillas LED de bajo consumo. ",
+       
+       "p3.18": " Si puedes, instala paneles solares o elige una compañía eléctrica con energía renovable. ",
+       
+       "p3.19": " Agua",
+       
+       "p3.20": "Cierra el grifo mientras te cepillas los dientes o lavas los platos. ",
+       
+       "p3.21": "Repara fugas de inmediato. ",
+
+       "p3.24":"Usa sistemas de bajo consumo en duchas, grifos e inodoros.",
+
+        "p3.25":"Recolecta agua de lluvia para riego.",
+
+        "p3.26":"Productos de limpieza e higiene.",
+
+        "p3.27":"Usa productos biodegradables y ecológicos.",
+
+        "p3.28":"Evita los productos con microplásticos.",
+
+        "p3.29":"Haz tus propios limpiadores naturales (vinagre, bicarbonato, limón).",
+
+        "p3.30":"Naturaleza y comunidad",
+
+        "p3.31":"Planta árboles o cuida espacios verdes.",
+
+        "p3.32":"Participa en limpiezas comunitarias o actividades ambientales.",
+
+        "p3.33":"Educa a otros sobre la importancia de cuidar el medio ambiente.",
+
+       "PM.1":"Paguina Principal",
+"m1":"Menú",
+"m2":"Conciencia y Educacion Ambiental",
+"m3":"Importancia de la educacion ambiental",
+"m4":"Responsabilidad individual y colectiva",
+"m5":"Cambio de habitos para reducir el impacto ambiental",
+"m6":"Cambio Climático y sus Efectos",
+"m7":"Causas del Cambio Climático",
+"m8":"Consecuencias para el Planeta y la Humanidad",
+"m9":"Medidas para Mitigar el Cambio Ambiental",
+"m10":"Contaminación Ambiental",
+"m11":"Contaminación del Agua, Aire y Suelo",
+"m12":"Contaminación por Plásticos y Microplásticos",
+"m13":"Contaminación Acústica y Lumínica",
+"m14":"Energías Renovables y Sostenibilidad",
+"m15":"Energía Solar, Eólica, Hidroeléctrica y Geotérmica",
+"m16":"Beneficios de las Energías Limpias",
+"m17":"Retos de la Transición Energética",
+"m18":"Biodiversidad y Ecosistemas",
+"m19":"Importancia de la Biodiversidad",
+"m20":"Pérdida de Hábitats y Especies en Peligro",
+"m21":"Estrategias de Conservación de Flora y Fauna",
+"m22":"Gestión de Residuos y Reciclaje",
+"m23":"Reducción, Reutilización y Reciclaje (3R)",
+"m24":"Economía Circular y Materiales Sostenibles",
+"m25":"Manejo Adecuado de Residuos Electrónicos Peligrosos",
+"m26":"Uso Responsable del Agua",
+"m27":"Escasez de Agua y su Impacto Global",
+"m28":"Estrategias de Ahorro y Reutilización",
+"m29":"Contaminación del Agua y su Tratamiento",
+"m30":"Agricultura y Alimentación Sostenible",
+"m31":"Agricultura y Permacultura",
+"m32":"Impacto Ambiental de la Ganadería y la Pesca",
+"m33":"Reducción del Desperdicio de Alimentos",
+"m34":"Urbanismo y Ciudades Sostenibles",
+"m35":"Movilidad Sustentable (Bicicletas, Transporte Público, Autos Eléctricos)",
+"m36":"Construcción Ecológica y Eficiente Energéticamente",
+"m37":"Espacios Verdes y su Impacto en la Calidad de Vida",
+"m38":"Legislación y Políticas Ambientales",
+"m39":"Acuerdos Internacionales Sobre el Medio Ambiente (Acuerdo de París, Agenda 2030)",
+"m40":"Políticas de Protección Ambiental en Distintos Países",
+"m41":"Papel de las Empresas y el Sector Privado en la Sociedad",
+"m42":"Cerrar"
+
+        
+    },
+    
+    "en": {
+        
+           "p3.22":"Care for the environment",
+
+       "p3.23":"Change of habits to reduce environmental impact",
+
+       "p3h1":"The changes",
+
+  "p3.1": "Changing habits to reduce environmental impact is essential to care for the planet and ensure a sustainable future. It involves modifying our daily routines to minimize the damage we cause to the environment. Here are some key examples:",
+  
+  "p3.2": " Food",
+
+  "p3.3": " Reduce the consumption of meat and animal products: Livestock production is one of the main sources of greenhouse gas emissions.",
+
+  "p3.4": " Buy local and seasonal products: This reduces the carbon footprint associated with transportation.",
+
+  "p3.5": "Avoid food waste: Plan your meals and store food properly.",
+
+  "p3.6": " Responsible consumption",
+
+  "p3.7": " Avoid single-use plastics: Use reusable bottles, cloth bags, and recyclable containers.",
+
+  "p3.8": " Buy less and choose better: Opt for durable, repairable products made with sustainable materials.",
+
+  "p3.9": " Support brands with ethical and sustainable practices.",
+
+  "p3.10": " Transportation",
+
+  "p3.11": "Walk, bike, or use public transportation whenever possible.",
+
+  "p3.12": " Carpool or work from home if you have the option.",
+
+  "p3.13": " Consider electric or hybrid vehicles if you need to use a car.",
+
+  "p3.14": " Energy",
+
+  "p3.15": " Turn off lights and electronic devices when not in use.",
+
+  "p3.16": " Make the most of natural light.",
+
+  "p3.17": " Install energy-efficient LED light bulbs.",
+
+  "p3.18": " If possible, install solar panels or choose an electricity provider that uses renewable energy.",
+
+  "p3.19": " Water",
+
+  "p3.20": "Turn off the tap while brushing your teeth or washing dishes.",
+
+  "p3.21": "Fix leaks immediately.",
+
+  "p3.24": "Use low-consumption systems for showers, faucets, and toilets.",
+
+  "p3.25": "Collect rainwater for irrigation.",
+
+  "p3.26": " Cleaning and hygiene products",
+
+  "p3.27": "Use biodegradable and eco-friendly products.",
+
+  "p3.28": "Avoid products containing microplastics.",
+
+  "p3.29": "Make your own natural cleaners (vinegar, baking soda, lemon).",
+
+  "p3.30": " Nature and community",
+
+  "p3.31": "Plant trees or take care of green spaces.",
+
+  "p3.32": "Participate in community clean-ups or environmental activities.",
+
+  "p3.33": "Educate others about the importance of protecting the environment.",
+
+
+
+           "PM.1":"Main Page",
+    "m1": "Menu",
+    "m2": "Environmental Awareness and Education",
+    "m3": "Importance of Environmental Education",
+    "m4": "Individual and Collective Responsibility",
+    "m5": "Habit Changes to Reduce Environmental Impact",
+    "m6": "Climate Change and Its Effects",
+    "m7": "Causes of Climate Change",
+    "m8": "Consequences for the Planet and Humanity",
+    "m9": "Measures to Mitigate Environmental Change",
+    "m10": "Environmental Pollution",
+    "m11": "Water, Air, and Soil Pollution",
+    "m12": "Plastic and Microplastic Pollution",
+    "m13": "Noise and Light Pollution",
+    "m14": "Renewable Energies and Sustainability",
+    "m15": "Solar, Wind, Hydroelectric and Geothermal Energy",
+    "m16": "Benefits of Clean Energy",
+    "m17": "Challenges of the Energy Transition",
+    "m18": "Biodiversity and Ecosystems",
+    "m19": "Importance of Biodiversity",
+    "m20": "Loss of Habitats and Endangered Species",
+    "m21": "Strategies for Flora and Fauna Conservation",
+    "m22": "Waste Management and Recycling",
+    "m23": "Reduction, Reuse, and Recycling (3Rs)",
+    "m24": "Circular Economy and Sustainable Materials",
+    "m25": "Proper Management of Hazardous Electronic Waste",
+    "m26": "Responsible Use of Water",
+    "m27": "Water Scarcity and Its Global Impact",
+    "m28": "Saving and Reuse Strategies",
+    "m29": "Water Pollution and Its Treatment",
+    "m30": "Sustainable Agriculture and Food",
+    "m31": "Agriculture and Permaculture",
+    "m32": "Environmental Impact of Livestock and Fishing",
+    "m33": "Reducing Food Waste",
+    "m34": "Urbanism and Sustainable Cities",
+    "m35": "Sustainable Mobility (Bicycles, Public Transport, Electric Cars)",
+    "m36": "Ecological and Energy-Efficient Construction",
+    "m37": "Green Spaces and Their Impact on Quality of Life",
+    "m38": "Environmental Legislation and Policies",
+    "m39": "International Environmental Agreements (Paris Agreement, 2030 Agenda)",
+    "m40": "Environmental Protection Policies in Different Countries",
+    "m41": "Role of Companies and the Private Sector in Society",
+    "m42": "Close"
+        
+    }
+
+}
